@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "forward-bee-166304",
+  "private_key_id": "7a1f5c3ecbef8d1b409ff0642d9478e2e60c87c9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCovKfSv55WTLfL\nndyIluR9x1B1thH8UOOHBW/cDAFDJMGjIhzeJpexlsLBS1qjfZwQev10WyTKKXaR\nZrYW+c+MmYIdek8Vps1QxzgN9R3RBDm4IxL5+iv2IdcJqMO09n8iL4e/MG6a8nyf\nCXI9SWsvdO1PZBE9mHGYSdllQEJX7fvpZO7EqmjVnlo9Wd7AFfnvucqoNJvIyMch\nCm+ecYj6jp3jXmPbkkQBbz8dmlvZxrWbypcMvKc/cs0+LhoPIgXAo3fLWCl42Rqi\nQoxbh5w1yoIGM2hnxeI1eB/C2fLdgaa8UuFn9dn0eLTmRKuMOUwJBm/JM7BWASE1\nfNJ9Lex7AgMBAAECggEADeNJJM1kqNGzpuydRBi3Qarv8mBD5rJ5p5lI9aF/URlr\nXpPmMFqYzaMM8H/VO/OQrsKQrcz6oDD9c0Yy4n05GedgkDCK5ctOxsE+2dc81wE0\nBvXMEAsJJz7txfu/79sB57xlvdSspdAjdat/XY/3ZHaJOamQybMMVm5tmCnLzBTG\nGprbfY24TJkXZek1yvnp3LEw6HcRzHuR/wXhEo49DOo1vVS3HOfMSffxlj5av2c/\n7Cy1SDjC9QOPqMFMS77RZn++k6Tm4USOQOMFiWlxooOYDM/K6JT/grxEwjgtGDgt\n/3lj4YApzlty20wodYTjyLrcmcdI147XxC3f3D8JgQKBgQDQkcJCgEs8zpqSdnT+\nnMHc9seiAFGscOs2IkbCB89LQt2A6n3IyRXWBsX7hjCiLO+nfbxJ5zQGRbpqXY51\ndU452Tr685i1bFWhIV2PHpnnPDtZ8gm9/YQvXbDjD1zw+GHmHr+6Gqf/V2Ps3m3/\nC3mngBrPVvmCCTpiWl6+mQ+Y4QKBgQDPG/rZbfv8vfR/lwZ9yq/cfin9rFlJuoSC\nKNHpXhgOTC6pYY2HiWDAST5/862kI8Z54RZM6aMOPUdmL0Rf7IuB/lMUXVNQchrl\nK2fdOrLmz1s1WS1hf5490Z5yBe3+vm5WCVaf/4/zjYyz948dkXxISlZZUg4Dc2yC\nJ0K3Daak2wKBgGO3XF35An+m84XUtqjIf3NKVTWh22qLbhkqmBPKMhR0enxZIBwv\n742tHVjc1kGjJE06sxvOOzRIgBC8fBCyLd1Ae49hiYArtGDeF+IGKmTAiku9iWTZ\nYSpYK+rS/IeE6SFhUB8FAY711CN6ULKgZOBtQeQhXBcMnGpLdILBoRBhAoGBAJzp\nsPtNBe6uKHEGhmeFygm/GKdWDev7QWuv66HopUcn1u6Dt4vpvIDSvWSJxZQnerda\nnt+039HpAZBc3WvjtqrNejpinr3DRbc9VJrbXzHaBlt77hMBcm2ZxHbVIUSxGL1c\no+Hi6Th4lRLAzBB16niGwbc4oN9icuKFRlmUIR6jAoGBAKqdsYvgMS7F+u3L3P8m\nbd/m2WsSnFQHVk/mhivqPN0eCm0shsMIg8JGX3j9sTfk+JRFDQauvsMJlT4htqmv\njqx40n1HRUzTuH5rCkjOTTTCiCb7Ui9nrS+sgTWJQ2eXcGpyC2SmSP3g43tL569a\nxZI4IvRXV0ojJMMrhXUBfolQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "gabensoul@forward-bee-166304.iam.gserviceaccount.com",
+  "client_id": "101060144332817668946",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gabensoul%40forward-bee-166304.iam.gserviceaccount.com"
+}
